@@ -1,0 +1,42 @@
+Puntos a tomar en cuenta:
+Pagina pequeña: definir- cuantas paginas
+
+cobro, depende proyecto - horas
+
+Lo unico que hay es una web descargada
+Plataforma? wordpress?
+
+la pagina es compra de chances, pero no hay que comprar nada
+
+Hacer el login con correo o facebook
+Que se pueda comprar numeros, monto
+todo es ficticio?
+
+trabajar con avances cortos?
+estar en php restful - base de datos MySQL
+
+6,500 x hora yo cobro 
+
+-----------------------------------------------
+Pagina de chances por decirlo de una manera
+
+Login con gmail forma clasica para crear un registro y tenerlo en la base de datos
+Monto especifico, el dinero viene de otro lado
+todo eso se guarda en la base de datos 
+
+Monto de puntos de cada usuario- recarga
+comprar chances, selecciona uno o más numeros del 1 al 100, 
+escoge el sorte, el monto, la fecha y relizar la compra y ver si tiene puntos
+
+8h * 6 días sin contar fines de semana
+50h x 600 precio dolar 
+325,000
+------------------------------------------------------------------
+del martes 27 al viernes 30 Junio
+martes
+miercoles
+jueves
+viernes
+Sabado
+6horas cada día he trabajado x ahora
+30h *6500 = 195,000 total del login y todo el diseño 

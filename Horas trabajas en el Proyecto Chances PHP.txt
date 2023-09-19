@@ -1,0 +1,230 @@
+27/07/2023 hasta ahora lleva horas 37horas:30min trabajadas.
+Horas que he trabajado en el proyecto - 6,500 x hora yo cobro , contraseña de filefila Externo123.
+
+
+21/08/2023
+Trabaje: 00h:00min 
+	- Hora Inicio:	15:45pm
+	- Hora Final: 16:25pm
+Descripción: 
+- Cambio de radioButton a Checkbox para poder seleccionar mas de 1 numero
+----------------------------------
+
+
+
+09/08/2023
+Trabaje: 01h:40min 
+	- Hora Inicio:10:35am		
+	- Hora Pausa: 11:15am 
+	- Hora Retomar: 11:20am
+	- Hora Pausa: 11:55am n
+	- Hora Retomar: 12:15pm
+	- Hora Final: 12:40pm 	
+Descripción: 
+- Creacion de la tabla compra_sorteos
+- Implementacion de la columna monto a los usuarios
+- Visualizacion del monto en el sitio al usuario correspondiente
+- Implementación del codigo de compra en los 3 sorteos
+----------------------------------
+04/08/2023
+Trabaje: 03h:20min 
+	- Hora Inicio:09:30am	 
+	- Hora Pausa: 10:30am
+	- Hora Retomar: 11:30am-
+	- Hora Pausa: 12:20pm	
+	- Hora Inicio:12:40pm - 		
+	- Hora Pausa: 13:00pm
+	- Hora Inicio:13:40pm -		
+	- Hora Final: 15:30pm
+Descripción: 
+- Solución de visualización de los numeros de los sorteos 2 y 3
+- Intento fallidos por obtener el ID del usuario para la tabla tipo_sorteo codigo aparte
+- Probar el btn de pagar en el sorteo 1 y todo funciono bien, (modificar el codigo sql)
+- EL sorteo 3 ya funciona, y ya el btn de pagar esta implementada en los 3 sorteos
+- Testeo del sitio y todo funciona correctamente
+----------------------------------
+
+03/08/2023
+Trabaje: 00h:30min 
+	- Hora Inicio:19:00pm		
+	- Hora Pausa: 19:30pm
+	- Hora Retomar: 00:00pm
+	- Hora Final: 00:00pm	
+Descripción: 
+- Implementación de codigos en los 3 sorteos
+- Testing de los 3 sorteos
+----------------------------------
+
+01/08/2023
+Trabaje: 03h:45min 
+	- Hora Inicio:10:45pm		
+	- Hora Pausa: 01:00pm	
+	- Hora Retomar: 01:30pm
+	- Hora Pausa: 14:35pm	
+--------------------------------------Horas totales: 3h y 20min + 25min
+	- Hora Inicio: 15:05pm 
+	- Hora Pausa: 15:30pm	
+	- Hora Inicio: 00:00pm
+	- Hora Final: 00:00pm	
+Descripción: 
+- Modificaciones de las tablas numeros y tipo sorteos
+- Testing el codigo en el servidor al mostrar el tipo de sorteo con fecha y hora
+- Error al momento de insertar un numero sin seleccionar el sorteo
+----------------------------------
+
+
+- TOTAL DE HORAS TRABAJADAS JULIO: 
+
+27/07/2023
+Trabaje: 01h:05min mañana + 03h:05min tarde + 03h:00min noche -> total =07h:10min
+	- Hora Inicio:12:00pm		
+	- Hora Pausa: 12:50pm	
+	- Hora Retomar: 13:45pm
+	- Hora Pausa: 16:00pm	
+
+	- Hora Inicio: 19:50pm 
+	- Hora Pausa: 21:10pm	
+	- Hora Inicio: 21:20pm
+	- Hora Final: 23:00pm	
+Descripción: 
+- Implementacion del codigo para el sorteo 3 
+- Diseño de relaciones de las tablas, usuarios, sorteos, participaciones y numeros 
+- Reestructuración de las tablas 
+- Implementación del btn para eliminar los numeros de la lista
+- Reestructuración del código de los sorteos para cuando se inicia o cierra sesión 
+
+----------------------------------
+26/07/2023
+Trabaje: 02h:20min 
+	- Hora Inicio:10:00am		
+	- Hora Pausa: 11:00am		
+	- Hora Retomar: 11:20am	
+	- Hora Pausa: 12:00pm
+	- Hora Inicio: 12:10am
+	- Hora Final: 12:50pm
+Descripción: 
+- Implementacion de guardar y extraer datos sobre el tipo de sorteo con su clave foranea
+- Implementacion de codigo en el sorteo 2
+- Arreglos en el codigo del sorteo 1
+
+
+----------------------------------
+25/07/2023
+Trabaje: 02h:05min 
+	- Hora Inicio:09:00am		
+	- Hora Pausa: 09:40am	
+	- Hora Retomar: 09:50am		
+	- Hora Pausa: 10:45am
+	- Hora Inicio: 22:30pm
+	- Hora Final: 23:00pm
+Descripción: 
+- Insertar y mostrar los numeros con el monto en la BD y website
+- Creación de las tablas con sus respectivas relaciones de clave foranea
+
+----------------------------------
+
+21/07/2023
+Trabaje: 02h:15min 
+	- Hora Inicio: 14:00pm
+	- Hora Pausa: 15:40pm
+	- Hora Retomar:  15:45pm
+	- Hora Pausa: 16:00pm
+	- Hora Inicio: 17:40pm
+	- Hora Final: 18:00pm
+Descripción: 
+- Problemas con la tabla de numeros de la base de datos del servidor (Verificar)
+- Implementacion de modal en recuperacion de contraseña- listo
+
+----------------------------------
+20/07/2023
+Trabaje: 03h:20min 
+	- Hora Inicio: 19:20pm
+	- Hora Pausa: 20:20pm
+	- Hora Retomar:  21:00pm
+	- Hora Pausa: 23:20pmm
+	- Hora Final: 00:00pm
+Descripción: 
+- Agregue los numeros a la base de datos y los logre extraer
+- Tambien agregue el modal para la compra de los numeros
+
+----------------------------------
+19/07/2023
+Trabaje: 02h:05min
+	- Hora Inicio: 09:25am 
+	- Hora Pausa: 10:10am
+	- Hora Retomar:  10:15am 
+	- Hora Pausa: 11:35am
+	- Hora Final: 00:00pm
+Descripción: 
+- Implementación de login y registro con la base de datos
+- Validación de datos con modals para login y registro 
+-
+----------------------------------
+
+18/07/2023
+Trabaje:  02h:15minmañana 
+	1h y 15min + tarde 1h
+	- Hora Inicio: 13:10pm
+	- Hora Pausa: 00:00m
+	- Hora Retomar:  00:00am
+	- Hora Pausa: 00:00am
+	- Hora Final: 14:10pm
+Descripción: 
+- Implementacion de diseño de codigo en los sorteos
+----------------------------------
+17/07/2023
+Trabaje: 04h:50min
+	03h:50min + 1h de revision de codigo en el servidor
+	- Hora Inicio: 13:35pm
+	- Hora Pausa: 15:25pm
+	- Hora Retomar:  15:55pm
+	- Hora Pausa: 16:55pm
+	- Hora Final: 
+Descripción: 
+- Implementacion de codigo login en el servidor
+- Realizar pruebas 
+
+----------------------------------
+13/07/2023
+Trabaje: 02 horas 
+	- Hora Inicio: 10:05 am
+	- Hora Final: 12:05am 
+Descripción: 
+- Verificacion de sesion para comprar lo numeros
+- Extración de numeros y montos de la base de datos y visualizarlos en el sitio
+- Mostrar en el modal los numeros y monto total de los numeros
+
+----------------------------------
+12/07/2023
+Trabaje: 2 horas y 10minutos 
+	- Hora Inicio: 10:50 pm
+	- Hora Final: 1:00 am
+Descripción: 
+- Agregue funcionalidad para seleccionar un numero con su respectivo monto y guardarlo en la base de datos
+
+----------------------------------
+
+11/07/2023
+Trabaje: 3 horas
+	- Hora Inicio: 10:00
+	- Hora Final: 1:00pm
+Descripción: 
+- Intento fallido de seleccionar el numero 
+- Poner el monto y luego guardarlo en la base de datos
+
+----------------------------------
+10/07/2023
+Trabaje: 3 horas
+	- Hora Inicio: 9:00am a 10:00am 
+	- Retome: 10:20am a 12:20pm
+	- Hora Final:12:20pm
+Descripción: 
+- Reestructuración de los componentes
+- Creación de las tablas para la base de datos
+
+
+----------------------------------
+7/7/2023 - viernes
+Trabaje: 1 hora
+Descripción: 
+- Cambio de diseño del sorteo 3
